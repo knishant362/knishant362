@@ -34,9 +34,9 @@
 - 😄 Pronouns: He/His
 - 
 
-[![Twitter: rohitjakhar0](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
-[![Linkedin: rohitjakhar](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knishant362/)](https://www.linkedin.com/in/knishant362/)
-[![GitHub: rohitjakhar](https://img.shields.io/github/followers/rohitjakhar?label=follow&style=social)](https://github.com/rohitjakhar)
+[![Twitter: knishant362](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
+[![Linkedin: knishant362](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knishant362/)](https://www.linkedin.com/in/knishant362/)
+[![GitHub: knishant362](https://img.shields.io/github/followers/knishant362?label=follow&style=social)](https://github.com/knishant362)
 
 
 **Languages and Tools:**  
@@ -49,7 +49,7 @@
 <a href="https://github.com/knishant362">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knishant362&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/rohitjakhat">
+<a href="https://github.com/knishant362">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knishant362&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Nishant%27s%20github%20stats"/>
 </a>
 <a href="https://github.com/knishant362/CollegeX">
