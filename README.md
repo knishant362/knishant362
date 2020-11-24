@@ -50,14 +50,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knishant362&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rohitjakhat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=knishant362&show_icons=true&hide=prs&theme=dark&line_height=27" alt="Rohit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=knishant362&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Nishant%27s%20github%20stats"/>
 </a>
-<a href="https://github.com/rohitjakhar/coursehub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=coursehub&theme=radical" />
+<a href="https://github.com/knishant362/CollegeX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=collegex&theme=radical" />
 
 </a>
-<a href="https://github.com/rohitjakhar/stopwatch_kotlin">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitjakhar&repo=stopwatch_kotlin&theme=dark" />
+<a href="https://github.com/knishant362/GatherX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=gatherx&theme=dark" />
 </a>
 
 <div align="center">
