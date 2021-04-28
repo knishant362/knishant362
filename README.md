@@ -52,12 +52,12 @@
 <a href="https://github.com/knishant362">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knishant362&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Nishant%27s%20github%20stats"/>
 </a>
-<a href="https://github.com/knishant362/Foodx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=collegex&theme=radical" />
+<a href="https://github.com/knishant362/Campus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=Campus&theme=radical" />
 
 </a>
-<a href="https://github.com/knishant362/GatherX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=gatherx&theme=dark" />
+<a href="https://github.com/knishant362/Foodx">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=Foodx&theme=dark" />
 </a>
 
 <div align="center">
