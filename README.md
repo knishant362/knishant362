@@ -57,7 +57,7 @@
 
 </a>
 <a href="https://github.com/knishant362/Alkatraz">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=Foodx&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knishant362&repo=Alkatraz&theme=dark" />
 </a>
 
 <div align="center">
