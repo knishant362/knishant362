@@ -26,25 +26,38 @@
 <br/>
 <br/>
 
-
-
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m a CSE Student.
+- 📫 I'm currently working on Android Projects
 - 💬 Ask me about Android Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @knishant362](https://twitter.com/knishant362) 
 - 😄 Pronouns: He/His
-- 
 
 [![Twitter: knishant362](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
 [![Linkedin: knishant362](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knishant362/)](https://www.linkedin.com/in/knishant362/)
 [![GitHub: knishant362](https://img.shields.io/github/followers/knishant362?label=follow&style=social)](https://github.com/knishant362)
 
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+
+<img align="right" alt="GIF" height="170px" src="https://c.tenor.com/tV52z2xQXcAAAAAC/black-clover-anime.gif" />
+
+### Spotify Playing 🎧
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/314tpsqysc6mm43sxqieprm3y5tq)
+
+  </td>
+  <td width="50%">
+  
+  
+---
+
+  
+### Languages and Tools 🛠 
+
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>    <img alt="C++" 
+src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+
 
 <a href="https://github.com/knishant362">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knishant362&theme=radical&hide_langs_below=1" />
