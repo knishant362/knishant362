@@ -26,8 +26,8 @@
 <br/>
 <br/>
 
-- 🌱 I’m a CSE Student.
-- 📫 I'm currently working on Android Projects
+- 🌱 I’m a Android Developer.
+- 📫 I'm currently working on VPN and Media Customization apps
 - 💬 Ask me about Android Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @knishant362](https://twitter.com/knishant362) 
 - 😄 Pronouns: He/His
