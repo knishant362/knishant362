@@ -27,9 +27,10 @@
 <br/>
 
 - 🌱 I’m an Android Developer.
-- 📫 I'm currently working on VPN and Media Customization apps
+- 📫 Nowdays working on VPN and Media Customization apps
+- 💫 Currently studying different types of VPN Protocols and their integration in Android apps.
 - 💬 Ask me about Android Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @knishant362](https://twitter.com/knishant362) 
+- 📫 How to reach me: [Twitter - @knishant362](https://twitter.com/knishant362),  Gmail - knishant362@gmail.com
 - 😄 Pronouns: He/His
 
 [![Twitter: knishant362](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
