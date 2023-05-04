@@ -27,6 +27,7 @@
 <br/>
 
 - 🌱 I’m an Android Developer.
+- 👨 My pronouns are var/val.
 - 📫 Nowdays working on VPN and Media Customization apps
 - 💫 Currently studying different types of VPN Protocols and their integration in Android apps.
 - 💬 Ask me about Android Development or any tech related stuff.
